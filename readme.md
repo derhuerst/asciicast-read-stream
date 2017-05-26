@@ -18,7 +18,12 @@ npm install asciicast-read-stream
 ## Usage
 
 ```js
-todo
+const read = require('.')
+
+read(someAsciicast)
+.on('meta', console.log)
+.on('data', console.log)
+.on('error', console.error)
 ```
 
 
