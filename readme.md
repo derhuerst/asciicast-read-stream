@@ -1,5 +1,7 @@
 # asciicast-read-stream
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/derhuerst/asciicast-read-stream.svg)](https://greenkeeper.io/)
+
 **Read an [Asciicast](https://asciinema.org) as a stream of frames.**
 
 [![npm version](https://img.shields.io/npm/v/asciicast-read-stream.svg)](https://www.npmjs.com/package/asciicast-read-stream)
